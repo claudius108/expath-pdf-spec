@@ -1,1 +1,1 @@
-# expath-pdf-spec
+# EXPath PDF Specification, see http://kuberam.ro/specs/expath/pdf/pdf.html.
